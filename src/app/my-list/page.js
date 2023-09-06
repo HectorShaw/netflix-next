@@ -1,10 +1,5 @@
-'use client'
-
-
-
+"use client";
 
 export default function list() {
-  return (
-    <div>list</div>
-  )
+  return <div>list</div>;
 }
